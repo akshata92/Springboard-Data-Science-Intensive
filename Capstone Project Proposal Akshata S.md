@@ -1,4 +1,4 @@
-Capstone Proposal
+##Capstone Proposal
 
 #Predicting Credit Card Client Defaulters
 
